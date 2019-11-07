@@ -1,6 +1,6 @@
 {
 	"name": "get-files",
-	"version": "0.0.0",
+	"version": "1.0.0",
 	"description": "Recursively get all the files in a directory",
 	"main": "dist/build.cjs.js",
 	"module": "dist/build.esm.js",
