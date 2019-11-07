@@ -1,5 +1,5 @@
 {
-	"name": "get-files",
+	"name": "simply-get-files",
 	"version": "1.0.0",
 	"description": "Recursively get all the files in a directory",
 	"main": "dist/build.cjs.js",
@@ -37,9 +37,9 @@
 		"typescript": "^3.7.2",
 		"zip-tap": "^1.0.2"
 	},
-	"homepage": "https://github.com/Vehmloewff/get-files",
+	"homepage": "https://github.com/Vehmloewff/simply-get-files",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/Vehmloewff/get-files"
+		"url": "https://github.com/Vehmloewff/simply-get-files"
 	}
 }

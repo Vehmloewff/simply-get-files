@@ -1,9 +1,9 @@
-# get-files
+# simply-get-files
 
 Recursively get all the files in a directory.
 
 ```js
-const getFiles = require('get-files');
+const getFiles = require('simply-get-files');
 
 (async function() {
 	const files = await getFiles(`static`);
