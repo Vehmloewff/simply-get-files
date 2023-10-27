@@ -1,3 +1,5 @@
+> Unfortunately, I don't have the time to maintain this project anymore.
+
 # simply-get-files
 
 Recursively get all the files in a directory.
